@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindvir00&label=Profile%20views&color=0e75b6&style=flat" alt="jindvir00" /> </p>
 
-- 🌱 I’m currently learning **dart and Flutter**
+- 🌱 I’m currently working on **Android Development**
 
 - 📫 How to reach me **jindmahla238@gmail.com**
 
