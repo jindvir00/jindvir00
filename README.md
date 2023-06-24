@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jindvir Singh</h1>
 <h3 align="center">Doing my bachelors with majors in CSE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jindvir00&label=Profile%20views&color=0e75b6&style=flat" alt="jindvir00" /> </p>
-
 - 🌱 I’m currently doing **Flutter Development**
 
 - 📫 How to reach me **jindmahla238@gmail.com**
