@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jindvir Singh</h1>
 <h3 align="center">Doing my bachelors with majors in CSE</h3>
 
-- 🌱 I’m currently doing **Flutter Development**
+- 🌱 I’m currently doing **Android Development**
 
 - 📫 How to reach me **jindmahla238@gmail.com**
 
